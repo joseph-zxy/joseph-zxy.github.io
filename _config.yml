@@ -9,13 +9,13 @@ social:
     img: /assets/images/v2ex.png
     url: https://www.v2ex.com/member/josephzxy
   - title: Blog
-    img: /assets/images/avatar.png
+    img: /assets/images/avatar.JPG
     url: https://josephzxy.github.io
   - title: Gmail
     img: /assets/images/gmail.png
     url: mailto:josephchuh7@gmail.com
 
-avatar: /assets/images/avatar.png
+avatar: /assets/images/avatar.JPG
 introduction: >
   Hi! I'm Joseph<br/>
   中文昵称还真没想好，网易云音乐上叫小岛兔。<br/>
