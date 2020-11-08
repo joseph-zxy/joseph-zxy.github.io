@@ -40,7 +40,15 @@ language:
     - name: English
       fluency: Professional working proficiency
     - name: Mandarin
-      fluency: Native
+      fluency: Native or bilingual proficiency
+    - name: Cantonese
+      fluency: Professional working proficiency
+    - name: Japanese
+      fluency: Elementary proficiency
+    - name: Wenzhou Dialect 温州话
+      fluency: Native or bilingual proficiency
+    - name: Weihai Dialect 威海话
+      fluency: Native or bilingual proficiency
 
 education:
   title: Education Background
