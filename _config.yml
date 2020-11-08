@@ -11,6 +11,9 @@ social:
   - title: Gmail
     img: /assets/images/gmail.png
     url: mailto:josephchuh7@gmail.com
+  - title: Weibo
+    img: /assets/images/weibo.ico
+    url: https://weibo.com/7483950918/profile
 
 avatar: /assets/images/avatar.JPG
 introduction: >
