@@ -60,7 +60,7 @@
           <h2>{{ site.language.title }}</h2>
           {% for item in site.language.list %}
             <li>
-              <strong>{ item.name }</strong>: { item.fluency }
+              <strong>{{ item.name }}</strong>: {{ item.fluency }}
             </li>
           {% endfor %}
         {% endif %}
