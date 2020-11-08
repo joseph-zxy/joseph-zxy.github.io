@@ -14,7 +14,7 @@ social:
 
 avatar: /assets/images/avatar.JPG
 introduction: >
-  Hi! I'm Joseph who's passionate about lanugages and cutting-edge technologies.<br>
+  Hi! I'm Joseph who's passionate about lanugages and cutting-edge technologies.<br/><br/>
   Currently, I am familiar with common Backend stacks(MySQL, Redis, Cassandra, MongoDB, RESTful API, RPC, GraphQL) with Python-specifc frameworks/libs(asynio, Flask, Huey, Pytest) as well as DevOps tools/services(Ansible, Terraform, CircleCI, Scalyr, Newrelic, Sentry, Pagerduty).<br>
   I also had experiences in building cross-plaform apps using Flutter.<br>
   The engineering ability to deliver robust projects that are well-designed, sufficiently-and-automatically-tested, clearly-documented within a reasonable amount of time is something I am always pursuing for.<br>
