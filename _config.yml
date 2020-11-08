@@ -31,6 +31,14 @@ working:
     - "The University of Hong Kong: Part-time Research Assistant"
     - date: 2017-12   
 
+language:
+  title: Languages
+  list:
+    - name: English
+      fluency: Professional working proficiency
+    - name: Mandarin
+      fluency: Native
+
 education:
   title: Education Background
   timeline:

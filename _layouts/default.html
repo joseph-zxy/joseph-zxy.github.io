@@ -45,7 +45,6 @@
           {{ site.projects.content }}
         {% endif %}
 
-
         {% if site.working %}
           <h2>{{ site.working.title }}</h2>
           {% for item in site.working.timeline %}
@@ -57,6 +56,14 @@
           {% endfor %}
         {% endif %}
 
+        {% if site.language %}
+          <h2>{{ site.language.title }}</h2>
+          {% for item in site.language.list %}
+            <li>
+              <strong>{ item.name }</strong>: { item.fluency }
+            </li>
+          {% endfor %}
+        {% endif %}
 
         {% if site.education %}
           <h2>{{ site.education.title }}</h2>
