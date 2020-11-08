@@ -1,33 +1,22 @@
-title: josephzxy / Joseph Chu
-description: Be brave. Be enthusiastic. Be persistent.
+title: josephzxy
+description: Language & Tech
 
 social:
   - title: GitHub
     img: /assets/images/github.ico
     url: https://github.com/josephzxy
-  - title: V2EX
-    img: /assets/images/v2ex.png
-    url: https://www.v2ex.com/member/josephzxy
-  - title: Blog
-    img: /assets/images/avatar.JPG
-    url: https://josephzxy.github.io
+  - title: Linkedin
+    img: /assets/images/linkedin.png
+    url: https://www.linkedin.com/in/josephzxy/
   - title: Gmail
     img: /assets/images/gmail.png
     url: mailto:josephchuh7@gmail.com
 
 avatar: /assets/images/avatar.JPG
 introduction: >
-  Hi! I'm Joseph<br/>
-  中文昵称还真没想好，网易云音乐上叫小岛兔。<br/>
-  
-
-projects:
-  title: Open Source Projects
-  github:
-    - josephzxy/ffmpeg_video_recorder
-    - josephzxy/github_avatar_python
-  content: >
-    <p>Other projects that I have contributed can be found in <a href="https://github.com/josephzxy">github.com/josephzxy</a>.</p>
+  Hi! I'm Joseph who's passionate about lanugages and cutting-edge technologies. Currently, I am familiar with common Backend stacks(MySQL, Redis, Cassandra, MongoDB, RESTful API, RPC, GraphQL) with Python-specifc frameworks/libs(asynio, Flask, Huey, Pytest) as well as DevOps tools/services(Ansible, Terraform, CircleCI, Scalyr, Newrelic, Sentry, Pagerduty). I also had experiences in building cross-plaform apps using Flutter. <br>
+The engineering ability to deliver robust projects that are well-designed, sufficiently-and-automatically-tested, clearly-documented within a reasonable amount of time is something I am always pursuing for. <br>
+My next goal is to further sharpen my Backend Skills by exploiting Golang and K8s. I would also explore the possiblity to be a fullstack engineer with JavaScript-related stacks (Node.js, Deno.js, React.js)
 
 working:
   title: Working Experience
