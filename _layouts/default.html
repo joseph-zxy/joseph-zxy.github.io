@@ -58,9 +58,10 @@
 
         {% if site.language %}
           <h2>{{ site.language.title }}</h2>
+          <br>
           {% for item in site.language.list %}
             <li>
-              <strong>{{ item.name }}</strong>: {{ item.fluency }}
+              {{ item.name }} <span class="text-muted"> {{ item.fluency }} </span>
             </li>
           {% endfor %}
         {% endif %}
