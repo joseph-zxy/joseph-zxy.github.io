@@ -21,7 +21,7 @@ introduction: >
   The engineering ability to deliver robust projects that are well-designed, sufficiently-and-automatically-tested, clearly-documented within a reasonable amount of time is something I am always pursuing.</br></br>
   Currently, I am familiar with common Backend stacks(MySQL, Redis, Cassandra, MongoDB, RESTful API, RPC, GraphQL) with Python-specific frameworks/libs(Asyncio, Flask, Tornado, Falcon, Huey, Pytest) as well as DevOps tools/services(Ansible, Terraform, AWS, Cloudflare, CircleCI, Scalyr, Newrelic, Sentry, Pagerduty).</br></br>
   Also, I experienced in project management with Agile methodologies(Scrum) and cross-platform apps development using Flutter.</br></br>
-My next goal is to full-stack myself with JavaScript-related stacks (Node.js, Deno.js, React.js). Efforts will be spent on Golang and Kubernetes as well.
+  My next goal is to full-stack myself with JavaScript-related stacks (Node.js, Deno.js, React.js). Efforts will be spent on Golang and Kubernetes as well.
 
 working:
   title: Working Experience
